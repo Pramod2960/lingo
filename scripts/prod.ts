@@ -145,6 +145,13 @@ const main = async () => {
                   imageSrc: "/boy.svg",
                   audioSrc: "/es_boy.mp3",
                 },
+                {
+                  challengeId: challenge.id,
+                  correct: true,
+                  text: "el hombre",
+                  imageSrc: "/man.svg",
+                  audioSrc: "/es_man.mp3",
+                },
               ]);
             }
 
